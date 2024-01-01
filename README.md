@@ -15,3 +15,6 @@ The project is deployed using Streamlit, providing a user-friendly interface for
 
 ### **NOTE**       
 model.pkl: The trained machine learning model (Note: This file was too large for GitHub so i could not upload it).
+
+### Streamlit Screen
+![image](https://github.com/VIVEKJAINDTU/NLP_TEXT-TWEET_ANALYZER/assets/112776075/521ac78c-1239-4fa9-8231-44f4d79092da)
