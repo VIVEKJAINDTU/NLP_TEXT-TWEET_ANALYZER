@@ -1,4 +1,4 @@
-**Tweet Analyzer Project**      
+# **Tweet Analyzer Project**      
 **Overview**  
 The Tweet Analyzer project is a machine learning-based tool designed to analyze and classify Twitter tweets using the TF-IDF vectorizer and a Random Forest classification algorithm. This project allows users to understand the sentiment of tweets, making it useful for sentiment analysis and related tasks.   
 
@@ -12,4 +12,6 @@ The Tweet Analyzer project is a machine learning-based tool designed to analyze 
 **Deployment**       
 The project is deployed using Streamlit, providing a user-friendly interface for interacting with the tweet analyzer. Users can input a tweet, and the system will provide the predicted sentiment category.      
 
-model.pkl: The trained machine learning model (Note: This file is too large for GitHub and can be downloaded separately).
+
+###**NOTE**       
+model.pkl: The trained machine learning model (Note: This file was too large for GitHub so i could not upload it).
