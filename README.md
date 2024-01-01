@@ -13,5 +13,5 @@ The Tweet Analyzer project is a machine learning-based tool designed to analyze 
 The project is deployed using Streamlit, providing a user-friendly interface for interacting with the tweet analyzer. Users can input a tweet, and the system will provide the predicted sentiment category.      
 
 
-###**NOTE**       
+### **NOTE**       
 model.pkl: The trained machine learning model (Note: This file was too large for GitHub so i could not upload it).
